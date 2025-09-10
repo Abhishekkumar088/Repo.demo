@@ -1,10 +1,16 @@
 # Repo.demo
+
 it is demo repo which is made to learn git and GitHub working.
 Now it's good
 
-# Name 
+# Teacher
+
+Shradha Khapra
+
+# Name
+
 Abhishek Kumar
 
+# Job
 
-# Job 
-Software Engineer @microsoft 
+Software Engineer @microsoft
